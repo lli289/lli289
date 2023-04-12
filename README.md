@@ -6,7 +6,7 @@ I am a Ph.D candidate majoring in Statistics at the University of Kentucky.
 
 ### My Github staus
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=neon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p align="center">
   
