@@ -2,7 +2,7 @@
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)   
 
-I am a Ph.D candidate majoring in Statistics at the University of Kentucky.
+I am a Ph.D student majoring in Statistics at the University of Kentucky.
 
 ### My Github staus
 
