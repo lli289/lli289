@@ -1,13 +1,14 @@
 <h2> Hey there! I'm Lillian. ༼ つ ◕_◕ ༽つ </h2>
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)   
+![image](https://github.com/lli289/lli289/blob/main/dino.gif)   
 
-### My Github staus
+### My GitHub streak stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p align="center">
-  
+### My latest blog posts
+* 2023-04-13 [How to get "RStan" to work in Rstudio](https://lli289.github.io/posts/2023/04/blog-post-1/)
+
 ### How to reach me
 📫 Email: lli289.git@gmail.com
   
