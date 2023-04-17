@@ -11,7 +11,7 @@
 * 2013-04-17 [Continuous Updates: R Tricks I Found Useful](https://lli289.github.io/posts/2023/04/blog-post-2/)
 
 ### (✿˶˘◡˘)⋑ I am currently learning...
-Deep Learning by deeplearning.ai
+* Deep Learning by deeplearning.ai
 
 ### (✿˶˘◡˘)⋑ How to reach me
 📫 Email: lli289.git@gmail.com
