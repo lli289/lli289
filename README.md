@@ -12,6 +12,7 @@
 
 ### (✿˶˘◡˘)⋑ I am currently learning...
 * Deep Learning by deeplearning.ai
+* Machine Learning by deeplearning.ai
 
 ### (✿˶˘◡˘)⋑ How to reach me
 📫 Email: lli289.git@gmail.com
