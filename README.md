@@ -12,6 +12,8 @@
 
 ### (✿˶˘◡˘)⋑ I am currently learning...
 
+* some R functions on github
+
 ### (✿˶˘◡˘)⋑ How to reach me
 📫 Email: lli289.git@gmail.com
   
