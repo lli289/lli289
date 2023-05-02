@@ -12,6 +12,8 @@
 
 ### (✿˶˘◡˘)⋑ I am currently learning...
 
+Publish R package on CRAN
+
 ### (✿˶˘◡˘)⋑ How to reach me
 📫 Email: lli289.git@gmail.com
   
