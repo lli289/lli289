@@ -7,6 +7,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### (✿˶˘◡˘)⋑ My latest blog posts
+* 2023-05-03 [How to fix package or namespace load failed Error message in Rstudio](https://lli289.github.io/posts/2023/05/blog-post-1/)
 * 2023-04-13 [How to get "RStan" to work in Rstudio](https://lli289.github.io/posts/2023/04/blog-post-1/)
 * 2013-04-21 [Continuous Updates: R Tricks I Found Useful](https://lli289.github.io/posts/2023/04/blog-post-2/)
 
