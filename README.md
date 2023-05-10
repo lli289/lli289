@@ -15,7 +15,6 @@
 ### (✿˶˘◡˘)⋑ I am currently learning...
 
   * Put R package on CRAN
-  * MOOCs Data Science: Foundations using R Specialization offered by John Hopkins University
 
 ### (✿˶˘◡˘)⋑ How to reach me
 📫 Email: lli289.git@gmail.com
