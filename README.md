@@ -7,7 +7,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### (✿˶˘◡˘)⋑ My latest blog posts
-* 2013-05-09 [Continuous Updates: R Tricks I Found Useful](https://lli289.github.io/posts/2023/04/blog-post-2/)
+* 2013-08-16 [Continuous Updates: R Tricks I Found Useful](https://lli289.github.io/posts/2023/04/blog-post-2/)
 * 2023-05-06 [Overview: how to write your first R package](https://lli289.github.io/posts/2023/05/blog-post-3/)
 * 2023-05-04 [Learning R with swirl](https://lli289.github.io/posts/2023/05/blog-post-2/)
 * 2023-05-03 [How to fix package or namespace load failed Error message in Rstudio](https://lli289.github.io/posts/2023/05/blog-post-1/)
