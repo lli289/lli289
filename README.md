@@ -9,7 +9,7 @@
  </br>
 </br>
 
-  ![Snake animation](https://github.com/lli289/lli289/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lli289/lli289/blob/main/assets/github-contribution-grid-snake.svg)
  
 </div>
 
