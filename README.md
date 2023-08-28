@@ -1,10 +1,6 @@
 <h2> Hey there! I'm Lillian. ༼ つ ◕_◕ ༽つ </h2>
 
 ![image](https://github.com/lli289/lli289/blob/main/dino.gif)   
-
-### (✿˶˘◡˘)⋑ My GitHub streak stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <div> 
  </br>
 </br>
@@ -12,6 +8,10 @@
   ![Snake animation](https://github.com/lli289/lli289/blob/main/assets/github-contribution-grid-snake.svg)
  
 </div>
+
+### (✿˶˘◡˘)⋑ My GitHub streak stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### (✿˶˘◡˘)⋑ How to reach me
 <div> 
