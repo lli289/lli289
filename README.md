@@ -22,7 +22,7 @@
 ### (✿˶˘◡˘)⋑ Homepage and My latest blog posts
 📰 Homepage: [https://lli289.github.io](https://lli289.github.io)
 * 2013-08-29 [Continuous Updates: LaTex Tips and Tricks I Found Helpful](https://lli289.github.io/posts/2023/08/blog-post-1/)
-* 2013-08-16 [Continuous Updates: R Tricks I Found Useful](https://lli289.github.io/posts/2023/04/blog-post-2/)
+* 2013-08-29 [Continuous Updates: R Tricks I Found Useful](https://lli289.github.io/posts/2023/04/blog-post-2/)
 * 2023-05-06 [Overview: how to write your first R package](https://lli289.github.io/posts/2023/05/blog-post-3/)
 * 2023-05-04 [Learning R with swirl](https://lli289.github.io/posts/2023/05/blog-post-2/)
 * 2023-05-03 [How to fix package or namespace load failed Error message in Rstudio](https://lli289.github.io/posts/2023/05/blog-post-1/)
