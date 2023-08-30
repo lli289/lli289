@@ -4,7 +4,7 @@
 
 <div>
   <div style="display: flex;">
-    <img align=top src="https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="420"/>
+    <img align=top src="https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=tokyonight-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="420"/>
     <img align=top src="https://github.com/lli289/lli289/blob/main/pika.gif" width="405" height="150"/>
   </div>
  </br>
