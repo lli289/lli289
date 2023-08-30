@@ -12,10 +12,10 @@
 ### (✿˶˘◡˘)⋑ My GitHub streak stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![image](https://github.com/lli289/lli289/blob/main/pikachu-happy.gif)   
-<div align="center">
+<div>
   <div style="display: flex;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="vertical-align: top;" />
-    <img src="https://github.com/lli289/lli289/blob/main/pikachu-happy.gif" />
+    <img align=top src="https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img align=top src="https://github.com/lli289/lli289/blob/main/pikachu-happy.gif" width="500" height="200"/>
   </div>
 </div>
 
