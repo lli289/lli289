@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Lillian. ༼ つ ◕_◕ ༽つ </h2>
+<h2> Hey there! I'm Lillian. (◍•ᴗ•◍)❤*✰ </h2>
 
 ![image](https://github.com/lli289/lli289/blob/main/dino.gif)   
 <div> 
@@ -9,7 +9,7 @@
  
 </div>
 
-### (✿˶˘◡˘)⋑ My GitHub streak stats
+### (✿˶˘◡˘)⋑ ![espeon](https://github.com/lli289/lli289/assets/129143119/2d933d89-2c09-48f6-ab47-71f10f8e4945) My GitHub streak stats
 
 <div>
   <div style="display: flex;">
@@ -18,7 +18,7 @@
   </div>
 </div>
 
-### (✿˶˘◡˘)⋑ How to reach me
+### (✿˶˘◡˘)⋑ 🔸  How to reach me
 <div> 
  <a href = "mailto: lli289.git@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "mailto: lli289@uky.edu"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
