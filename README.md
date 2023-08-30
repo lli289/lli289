@@ -12,11 +12,12 @@
 ### (✿˶˘◡˘)⋑ My GitHub streak stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![image](https://github.com/lli289/lli289/blob/main/pikachu-happy.gif)   
-
- <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" hspace="10" >
-    <img src="https://github.com/lli289/lli289/blob/main/pikachu-happy.gif" hspace="10" >
-</p>
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="vertical-align: top;" />
+    <img src="https://github.com/lli289/lli289/blob/main/pikachu-happy.gif" />
+  </div>
+</div>
 
 ### (✿˶˘◡˘)⋑ How to reach me
 <div> 
