@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Lillian. (◍•ᴗ•◍)❤*✰ </h2> 
+<h2> Hey there! I'm Lillian. (◍•ᴗ•◍)❤*✰ </h2> 
 
 ![image](https://github.com/lli289/lli289/blob/main/dino.gif) 
 
@@ -7,7 +7,7 @@
 <div>
   <div style="display: flex;">
     <img align=top src="https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="420"/>
-    <img align=top src="https://github.com/lli289/lli289/blob/main/pika.gif" width="400" height="150"/>
+    <img align=top src="https://github.com/lli289/lli289/blob/main/pika.gif" width="410" height="150"/>
   </div>
  </br>
 </br>
