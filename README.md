@@ -15,8 +15,7 @@
   ![Snake animation](https://github.com/lli289/lli289/blob/main/assets/github-contribution-grid-snake.svg)  
 </div>
 
-### ![flareon](https://github.com/lli289/lli289/blob/main/assets/flareon.gif) Homepage and My latest blog posts
-📰 Homepage: [https://lli289.github.io](https://lli289.github.io) 
+### ![flareon](https://github.com/lli289/lli289/blob/main/assets/flareon.gif) [Homepage](https://lli289.github.io) and My latest blog posts
 * ![leafeon](https://github.com/lli289/lli289/blob/main/assets/leafeon.gif) 2013-08-29 [Continuous Updates: LaTex Tips and Tricks I Found Helpful](https://lli289.github.io/posts/2023/08/blog-post-1/)
 * ![umbreon](https://github.com/lli289/lli289/blob/main/assets/umbreon.gif) 2013-08-29 [Continuous Updates: R Tricks I Found Useful](https://lli289.github.io/posts/2023/04/blog-post-2/)
 * ![sylveon](https://github.com/lli289/lli289/blob/main/assets/sylveon.gif) 2023-05-06 [Overview: how to write your first R package](https://lli289.github.io/posts/2023/05/blog-post-3/)
