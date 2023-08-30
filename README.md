@@ -13,8 +13,8 @@
 
 <div>
   <div style="display: flex;">
-    <img align=top src="https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400"/>
-    <img align=top src="https://github.com/lli289/lli289/blob/main/pikachu-happy.gif" width="400" height="200"/>
+    <img align=top src="https://github-readme-streak-stats.herokuapp.com?user=lli289&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="420"/>
+    <img align=top src="https://github.com/lli289/lli289/blob/main/pikachu-happy.gif" width="380" height="150"/>
   </div>
 </div>
 
