@@ -2,12 +2,11 @@
 
 ### ![glaceon](https://github.com/lli289/lli289/blob/main/assets/glaceon.gif) My GitHub streak stats
 
+<p float="left">
+  <img align=top src="https://streak-stats.demolab.com?user=lli289&theme=onedark-duo&hide_border=true" width="450" height="150"/>
+  <img align=top src="https://github.com/lli289/lli289/blob/main/pika.gif" width="340" height="130"/>  
+</p>
 <div>
-  <div style="display: flex;">
-    <img align=top src="https://streak-stats.demolab.com?user=lli289&theme=onedark-duo&hide_border=true&type=png" width="420"/>
-    <img align=top src="https://github.com/lli289/lli289/blob/main/pika.gif" width="405" height="150"/>
-  </div>
- </br>
 </br>
   
   ![Snake animation](https://github.com/lli289/lli289/blob/main/assets/github-contribution-grid-snake.svg)  
